@@ -1,1 +1,1 @@
-new-azresourcegroup -name "psrgpipeline" -location "east us2"
+new-azresourcegroup -name "buildreleasergpipeline" -location "eastus"
